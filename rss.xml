@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YAZZZZZZZ]]></title>
+        <description><![CDATA[YAZZZZZZZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Sep 2015 22:20:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool Photo for Yazz's New Site]]></title>
+            <description><![CDATA[<article><h1>Cool Photo for Yazz's New Site</h1><p>Photooooooz</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/344104ca-0510-412b-ba9f-4778b0bc0cab.jpg"></article>]]></description>
+            <link>undefinedcool-photo-for-yazzs-new-site/index.html</link>
+            <guid isPermaLink="false">7457f1cd-2fcc-41c2-a272-aa896fa334e7</guid>
+            <pubDate>Tue, 01 Sep 2015 22:19:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
